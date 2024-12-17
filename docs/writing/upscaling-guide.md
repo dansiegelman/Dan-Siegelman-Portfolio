@@ -6,7 +6,7 @@ This guide outlines the AI upscaling process for users of all experience levels.
 
 **Upscaling** is the process of increasing an image’s size to enhance its clarity and detail. You may upscale small images to prepare them for large displays like print and video.
 
-<img src="upscale-photos/Farmer%20Compare.png" alt="Farmer Upsclae" width="600" style="display: block; margin: 0 auto;text-align: center"/>
+<img src="upscale-photos/Farmer%20Compare.png" alt="Farmer Upsclae" width="800" style="display: block; margin: 0 auto;text-align: center"/>
 
 [CLICK HERE](https://photos.google.com/share/AF1QipNty46DjXDzvbgq69Bg8JJRdM2UpXvUKOXC_OKeY8ZaDesq2Hwu_2zopS_FDAYc4g/photo/AF1QipM2NUwwQNNjSkV75tR2CMHtQr8dDNWjo1g_gfHf?key=UnZmU2YwR2ZPVFNUSTR3YktiNGhUMkRWb2N6OVB3) to view a gallery of upscaled images.
 
