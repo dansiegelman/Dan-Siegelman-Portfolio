@@ -26,29 +26,40 @@ Follow the guidelines below to select the best images for upscaling.
 
 <figure style="text-align: center;">
     <img src="upscale-photos/Blurriness.jpg" alt="Fig 2: Blurry Couple Photo" style="display: block; margin: 0 auto;">
-    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 1: Upscaled Farmer Photo</figcaption>
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 2: Blurry Couple Photo</figcaption>
 </figure>
 
 **2. Pixelation:**
 
 <figure style="text-align: center;">
     <img src="upscale-photos/Pixelation.png" alt="Fig. 3: Pixelated Farmer Photo" width="600" style="display: block; margin: 0 auto;">
-    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Pixelated Farmer Photo</figcaption>
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig 3: Pixelated Farmer Photo</figcaption>
 </figure>
 
 
 **3. Color-Banding:**
 
-<img src="upscale-photos/ColorBandCat.png" alt="Color Band Cat" style="display: block; margin: 0 auto;text-align: center"/>
+<figure style="text-align: center;">
+    <img src="upscale-photos/ColorBandCat.png" alt="Fig. 4: Color-Banded Cat Photo" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 4: Color-Banded Cat Photo</figcaption>
+</figure>
 
 **Image Size:** Upscale images larger than 200x200 pixels. Upscaling models may struggle to produce great results from tiny images. See Fig. 5 below.
 
-<img src="upscale-photos/Nixon%20Upscale.png" alt="Nixon Upscale" width="800" style="display: block; margin: 0 auto;text-align: center"/>
+<figure style="text-align: center;">
+    <img src="upscale-photos/Nixon%20Upscale.png" alt="Fig. 5: Tiny Nixon Photo Upscale" width="600" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 5: Tiny Nixon Photo Upscale</figcaption>
+</figure>
 
 **Lighting and Composition:** Upscale well-lit images with clearly defined subjects,
 ideally with the subjects facing toward the camera. Upscaling models perform poorly with low-light images and faces in profile. See Fig. 6 below for an example of a clearly defined subject.
 
 <img src="upscale-photos/Woman%20copy.jpg" alt="Great Depression Woman" style="display: block; margin: 0 auto;text-align: center"/>
+
+<figure style="text-align: center;">
+    <img src="upscale-photos/Woman%20copy.jpg" alt="Fig. 6: Great Depression Woman — Clearly Defined Subject" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 6: Great Depression Woman — Clearly Defined Subject</figcaption>
+</figure>
 
 Upscaling can consume lots of time, RAM, and money. Do your best to find high-quality images and only upscale when necessary.
 
@@ -59,19 +70,31 @@ While upscaling models can enhance your images, they can also make mistakes. Car
 **Resemblance:** Ensure that your upscaled image mirrors—or at least closely resembles—your original image. Upscaling models often take liberties with their high-resolution outputs.
 See Fig. 7 below.
 
-<img src="upscale-photos/Farmer%20Comare%20Noresemble.jpg" alt="Farmer Compare Resemblance" width="600" style="display: block; margin: 0 auto;text-align: center"/>
+<figure style="text-align: center;">
+    <img src="upscale-photos/Farmer%20Comare%20Noresemble.jpg" alt="Fig. 7: Farmer Upscale — Lack of Resemblance" width="600" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 7: Farmer Upscale — Lack of Resemblance</figcaption>
+</figure>
 
 **Artifice:** Check for details that appear fake or stray into the uncanny valley. Backgrounds and skin textures are especially prone to this issue. See Fig. 8 below. 
 
-<img src="upscale-photos/ARTIFICE%20-%20LBJ%20Compare.png" alt="LBJ Compare" width="600" style="display: block; margin: 0 auto;text-align: center"/>
+<figure style="text-align: center;">
+    <img src="upscale-photos/ARTIFICE%20-%20LBJ%20Compare.png" alt="Fig. 8: LBJ Upscale — Artifice" width="600" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 8: LBJ Upscale — Artifice</figcaption>
+</figure>
 
 **Facial Distortions:** Zoom in on each face to check for distortions, especially around the eyes and mouth. Upscaling models can distort whole faces as well as specific features. See Fig. 9 below. 
 
-<img src="upscale-photos/CoupleCompare.png" alt="Couple Compare" width="600" style="display: block; margin: 0 auto;text-align: center"/>
+<figure style="text-align: center;">
+    <img src="upscale-photos/CoupleCompare.png" alt="Fig. 9: Couple Upscale — Facial Distortions" width="600" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 9: Couple Upscale — Facial Distortions</figcaption>
+</figure>
 
 **Artifacts:** Check your upscaled image for objects, textures, and glitches that do not appear in your original image. Upscaling models may introduce artifacts to your image when filling in details. See Fig. 10 below.
 
-<img src="upscale-photos/ARTIFACTS%20-%20JFK%20Compare.png" alt="JFK Compare]" width="600" style="display: block; margin: 0 auto;text-align: center"/>
+<figure style="text-align: center;">
+    <img src="upscale-photos/ARTIFACTS%20-%20JFK%20Compare.png" alt="Fig. 10: JFK Upscale — Artifacts" width="600" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 10: JFK Upscale — Artifacts</figcaption>
+</figure>
 
 ## Troubleshooting and Tips
 
