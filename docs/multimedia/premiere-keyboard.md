@@ -1,6 +1,6 @@
 # PREMIERE KEYBOARD FOR AVID EDITORS
 
-<embed src="multimedia-content/Premiere%20Keyboard%20for%20Avid%20Editors.pdf" type="application/pdf" width="100%" height="600px"/>
-
-
-<iframe src="multimedia-content/Premiere%20Keyboard%20for%20Avid%20Editors.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<div style="text-align: center;">
+ <img src="multimedia-content/PKAE01.tiff" alt="Page 1" style="width: 100%; max-width: 800px; margin-bottom: 20px;">
+ <img src="multimedia-content/PKAE02.tiff" alt="Page 2" style="width: 100%; max-width: 800px; margin-bottom: 20px;">
+</div>
