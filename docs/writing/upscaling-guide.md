@@ -6,7 +6,7 @@ This guide outlines the AI upscaling process for users of all experience levels.
 
 **Upscaling** is the process of increasing an image’s size to enhance its clarity and detail. You may upscale small images to prepare them for large displays like print and video.
 
-<figure style="text-align: center;">
+<figure style="text-align: center; margin-bottom: 10px;">
     <img src="upscale-photos/Farmer%20Compare.png" alt="Fig. 1: Upscaled Farmer Photo" width="600" style="display: block; margin: 0 auto;">
     <figcaption style="font-size: small; font-style: italic; color: darkblue;">Fig. 1: Upscaled Farmer Photo</figcaption>
 </figure>
@@ -52,19 +52,19 @@ While upscaling models can enhance your images, they can also make mistakes. Car
 **Resemblance:** Ensure that your upscaled image mirrors—or at least closely resembles—your original image. Upscaling models often take liberties with their high-resolution outputs.
 See Fig. 7 below.
 
-<img src="upscale-photos/Farmer%20Comare%20Noresemble.jpg" alt="Farmer Compare Resemblance" width="800" style="display: block; margin: 0 auto;text-align: center"/>
+<img src="upscale-photos/Farmer%20Comare%20Noresemble.jpg" alt="Farmer Compare Resemblance" width="600" style="display: block; margin: 0 auto;text-align: center"/>
 
 **Artifice:** Check for details that appear fake or stray into the uncanny valley. Backgrounds and skin textures are especially prone to this issue. See Fig. 8 below. 
 
-<img src="upscale-photos/ARTIFICE%20-%20LBJ%20Compare.png" alt="LBJ Compare" width="800" style="display: block; margin: 0 auto;text-align: center"/>
+<img src="upscale-photos/ARTIFICE%20-%20LBJ%20Compare.png" alt="LBJ Compare" width="600" style="display: block; margin: 0 auto;text-align: center"/>
 
 **Facial Distortions:** Zoom in on each face to check for distortions, especially around the eyes and mouth. Upscaling models can distort whole faces as well as specific features. See Fig. 9 below. 
 
-<img src="upscale-photos/CoupleCompare.png" alt="Couple Compare" width="800" style="display: block; margin: 0 auto;text-align: center"/>
+<img src="upscale-photos/CoupleCompare.png" alt="Couple Compare" width="600" style="display: block; margin: 0 auto;text-align: center"/>
 
 **Artifacts:** Check your upscaled image for objects, textures, and glitches that do not appear in your original image. Upscaling models may introduce artifacts to your image when filling in details. See Fig. 10 below.
 
-<img src="upscale-photos/ARTIFACTS%20-%20JFK%20Compare.png" alt="JFK Compare]" width="800" style="display: block; margin: 0 auto;text-align: center"/>
+<img src="upscale-photos/ARTIFACTS%20-%20JFK%20Compare.png" alt="JFK Compare]" width="600" style="display: block; margin: 0 auto;text-align: center"/>
 
 ## Troubleshooting and Tips
 
