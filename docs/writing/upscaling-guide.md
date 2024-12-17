@@ -7,7 +7,7 @@ This guide outlines the AI upscaling process for users of all experience levels.
 **Upscaling** is the process of increasing an image’s size to enhance its clarity and detail. You may upscale small images to prepare them for large displays like print and video.
 
 <figure style="text-align: center;">
-    <img src="upscale-photos/Farmer%20Compare.png" alt="Fig. 1: Upscaled Farmer Photo" width="600" style="display: block; margin: 0 auto;">
+    <img src="upscale-photos/Farmer%20Compare.png" alt="Fig. 1: Upscaled Farmer Photo" width="700" style="display: block; margin: 0 auto;">
     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 1: Upscaled Farmer Photo</figcaption>
 </figure>
 
@@ -25,14 +25,14 @@ Follow the guidelines below to select the best images for upscaling.
 **1. Blurriness:**
 
 <figure style="text-align: center;">
-    <img src="upscale-photos/Blurriness.jpg" alt="Fig 2: Blurry Couple Photo" style="display: block; margin: 0 auto;">
+    <img src="upscale-photos/Blurriness.jpg" alt="Fig 2: Blurry Couple Photo" width="700" style="display: block; margin: 0 auto;">
     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 2: Blurry Couple Photo</figcaption>
 </figure>
 
 **2. Pixelation:**
 
 <figure style="text-align: center;">
-    <img src="upscale-photos/Pixelation.png" alt="Fig. 3: Pixelated Farmer Photo" width="600" style="display: block; margin: 0 auto;">
+    <img src="upscale-photos/Pixelation.png" alt="Fig. 3: Pixelated Farmer Photo" width="700" style="display: block; margin: 0 auto;">
     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig 3: Pixelated Farmer Photo</figcaption>
 </figure>
 
@@ -40,25 +40,23 @@ Follow the guidelines below to select the best images for upscaling.
 **3. Color-Banding:**
 
 <figure style="text-align: center;">
-    <img src="upscale-photos/ColorBandCat.png" alt="Fig. 4: Color-Banded Cat Photo" style="display: block; margin: 0 auto;">
+    <img src="upscale-photos/ColorBandCat.png" alt="Fig. 4: Color-Banded Cat Photo" width="700" style="display: block; margin: 0 auto;">
     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 4: Color-Banded Cat Photo</figcaption>
 </figure>
 
 **Image Size:** Upscale images larger than 200x200 pixels. Upscaling models may struggle to produce great results from tiny images. See Fig. 5 below.
 
 <figure style="text-align: center;">
-    <img src="upscale-photos/Nixon%20Upscale.png" alt="Fig. 5: Tiny Nixon Photo Upscale" width="600" style="display: block; margin: 0 auto;">
+    <img src="upscale-photos/Nixon%20Upscale.png" alt="Fig. 5: Tiny Nixon Photo Upscale" width="700" style="display: block; margin: 0 auto;">
     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 5: Tiny Nixon Photo Upscale</figcaption>
 </figure>
 
 **Lighting and Composition:** Upscale well-lit images with clearly defined subjects,
 ideally with the subjects facing toward the camera. Upscaling models perform poorly with low-light images and faces in profile. See Fig. 6 below for an example of a clearly defined subject.
 
-<img src="upscale-photos/Woman%20copy.jpg" alt="Great Depression Woman" style="display: block; margin: 0 auto;text-align: center"/>
-
 <figure style="text-align: center;">
-    <img src="upscale-photos/Woman%20copy.jpg" alt="Fig. 6: Great Depression Woman — Clearly Defined Subject" style="display: block; margin: 0 auto;">
-    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 6: Great Depression Woman — Clearly Defined Subject</figcaption>
+    <img src="upscale-photos/Woman%20copy.jpg" alt="Fig. 6: Great Depression Woman – Clearly Defined Subject" width="700" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 6: Great Depression Woman – Clearly Defined Subject</figcaption>
 </figure>
 
 Upscaling can consume lots of time, RAM, and money. Do your best to find high-quality images and only upscale when necessary.
