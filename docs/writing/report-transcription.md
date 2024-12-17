@@ -64,5 +64,21 @@ Though further testing can reveal more about the models, this report offers some
 - Premiere users can transcribe clean audio with the program’s native Speech-To-Text model.
 - Premiere allows users to import third-party transcripts. Therefore, Premiere users can transcribe problem audio with Whisper, then import the Whisper transcripts into Premiere.
 
-CLICK HERE to view each model’s full transcripts.
+## Transcripts 
+
+Click the links below to view each model's full transcripts: 
+
+[Obama Speech - PSTT Transcript)(https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Obama-Speech-PSTT-Transcript)
+
+[Obama Speech - Trint Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Obama-Speech-Trint-Transcript)
+
+[Obama Speech - Whisper Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Obama-Speech-Whisper-Transcript)
+
+[Roosevelt Speech - PSTT Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Roosevelt-Speech-PSTT-Transcript)
+
+[Roosevelt Speech - Trint Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Roosevelt-Speech-Trint-Transcript)
+
+[Roosevelt Speech - Whisper Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Roosevelt-Speech-Whisper-Transcript)
+
+
 
