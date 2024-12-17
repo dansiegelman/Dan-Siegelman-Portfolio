@@ -11,3 +11,5 @@
 **[ENHANCE YOUR IMAGES WITH AI UPSCALING (PPT Version)](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/multimedia/upscaling-presentation)**
 
 **[TUTORIAL: FIREFOX VIDEO DOWNLOADHELPER](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/multimedia/firefox-tutorial)**
+
+## About Me
