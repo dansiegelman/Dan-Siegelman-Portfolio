@@ -24,11 +24,18 @@ Follow the guidelines below to select the best images for upscaling.
 
 **1. Blurriness:**
 
-<img src="upscale-photos/Blurriness.jpg" alt="Blurry Couple Photo" style="display: block; margin: 0 auto;text-align: center"/>
+<figure style="text-align: center;">
+    <img src="upscale-photos/Blurriness.jpg" alt="Fig 2: Blurry Couple Photo" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 1: Upscaled Farmer Photo</figcaption>
+</figure>
 
 **2. Pixelation:**
 
-<img src="upscale-photos/Pixelation.png" alt="Pixelated Farmer Photo" width="580" style="display: block; margin: 0 auto;text-align: center"/>
+<figure style="text-align: center;">
+    <img src="upscale-photos/Pixelation.png" alt="Fig. 3: Pixelated Farmer Photo" width="600" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Pixelated Farmer Photo</figcaption>
+</figure>
+
 
 **3. Color-Banding:**
 
