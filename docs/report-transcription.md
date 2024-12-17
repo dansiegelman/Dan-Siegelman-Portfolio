@@ -64,5 +64,5 @@ Though further testing can reveal more about the models, this report offers some
 - Premiere users can transcribe clean audio with the program’s native Speech-To-Text model.
 - Premiere allows users to import third-party transcripts. Therefore, Premiere users can transcribe problem audio with Whisper, then import the Whisper transcripts into Premiere.
 
-
+CLICK HERE to view each model’s full transcripts.
 
