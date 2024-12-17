@@ -68,7 +68,7 @@ Though further testing can reveal more about the models, this report offers some
 
 Click the links below to view each model's full transcripts: 
 
-[Obama Speech - PSTT Transcript)(https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Obama-Speech-PSTT-Transcript)
+[Obama Speech - PSTT Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Obama-Speech-PSTT-Transcript)
 
 [Obama Speech - Trint Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Obama-Speech-Trint-Transcript)
 
