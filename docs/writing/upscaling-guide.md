@@ -6,7 +6,7 @@ This guide outlines the AI upscaling process for users of all experience levels.
 
 **Upscaling** is the process of increasing an image’s size to enhance its clarity and detail. You may upscale small images to prepare them for large displays like print and video.
 
-<img src="upscale-photos/Farmer%20Compare.png" alt="Farmer Upsclae" width="800" style="display: block; margin: 0 auto;text-align: center"/>
+<img src="upscale-photos/Farmer%20Compare.png" alt="Farmer Upscale" width="800" style="display: block; margin: 0 auto;text-align: center"/>
 
 [CLICK HERE](https://photos.google.com/share/AF1QipNty46DjXDzvbgq69Bg8JJRdM2UpXvUKOXC_OKeY8ZaDesq2Hwu_2zopS_FDAYc4g/photo/AF1QipM2NUwwQNNjSkV75tR2CMHtQr8dDNWjo1g_gfHf?key=UnZmU2YwR2ZPVFNUSTR3YktiNGhUMkRWb2N6OVB3) to view a gallery of upscaled images.
 
@@ -21,24 +21,24 @@ Follow the guidelines below to select the best images for upscaling.
 
 **1. Blurriness:**
 
-![Blurry Couple Photo](upscale-photos/Blurriness.jpg)
+<img src="upscale-photos/Blurriness.jpg" alt="Blurry Couple Photo" style="display: block; margin: 0 auto;text-align: center"/>
 
 **2. Pixelation:**
 
-![Pixelated Farmer Photo](upscale-photos/Pixelation.png)
+<img src="upscale-photos/Pixelation.png" alt="Pixelated Farmer Photo" width="580" style="display: block; margin: 0 auto;text-align: center"/>
 
 **3. Color-Banding:**
 
-![Color Band Cat](upscale-photos/ColorBandCat.png)
+<img src="upscale-photos/ColorBandCat.png" alt="Color Band Cat" style="display: block; margin: 0 auto;text-align: center"/>
 
 **Image Size:** Upscale images larger than 200x200 pixels. Upscaling models may struggle to produce great results from tiny images. See Fig. 5 below.
 
-![Nixon Upscale](upscale-photos/Nixon%20Upscale.png)
+<img src="upscale-photos/Nixon%20Upscale.png" alt="Nixon Upscale" width="800" style="display: block; margin: 0 auto;text-align: center"/>
 
 **Lighting and Composition:** Upscale well-lit images with clearly defined subjects,
 ideally with the subjects facing toward the camera. Upscaling models perform poorly with low-light images and faces in profile. See Fig. 6 below for an example of a clearly defined subject.
 
-![Great Depression Woman](upscale-photos/Woman%20copy.jpg)
+<img src="upscale-photos/Woman%20copy.jpg" alt="Great Depression Woman" style="display: block; margin: 0 auto;text-align: center"/>
 
 Upscaling can consume lots of time, RAM, and money. Do your best to find high-quality images and only upscale when necessary.
 
@@ -49,19 +49,19 @@ While upscaling models can enhance your images, they can also make mistakes. Car
 **Resemblance:** Ensure that your upscaled image mirrors—or at least closely resembles—your original image. Upscaling models often take liberties with their high-resolution outputs.
 See Fig. 7 below.
 
-![Farmer Compare Resemblance](upscale-photos/Farmer%20Comare%20Noresemble.jpg)
+<img src="upscale-photos/Farmer%20Comare%20Noresemble.jpg" alt="Farmer Compare Resemblance" width="800" style="display: block; margin: 0 auto;text-align: center"/>
 
 **Artifice:** Check for details that appear fake or stray into the uncanny valley. Backgrounds and skin textures are especially prone to this issue. See Fig. 8 below. 
 
-![LBJ Compare](upscale-photos/ARTIFICE%20-%20LBJ%20Compare.png)
+<img src="upscale-photos/ARTIFICE%20-%20LBJ%20Compare.png" alt="LBJ Compare" width="800" style="display: block; margin: 0 auto;text-align: center"/>
 
 **Facial Distortions:** Zoom in on each face to check for distortions, especially around the eyes and mouth. Upscaling models can distort whole faces as well as specific features. See Fig. 9 below. 
 
-![Couple Compare](upscale-photos/CoupleCompare.png)
+<img src="upscale-photos/CoupleCompare.png" alt="Couple Compare" width="800" style="display: block; margin: 0 auto;text-align: center"/>
 
 **Artifacts:** Check your upscaled image for objects, textures, and glitches that do not appear in your original image. Upscaling models may introduce artifacts to your image when filling in details. See Fig. 10 below.
 
-![JFK Compare](upscale-photos/ARTIFACTS%20-%20JFK%20Compare.png)
+<img src="upscale-photos/ARTIFACTS%20-%20JFK%20Compare.png" alt="JFK Compare]" width="800" style="display: block; margin: 0 auto;text-align: center"/>
 
 ## Troubleshooting and Tips
 
