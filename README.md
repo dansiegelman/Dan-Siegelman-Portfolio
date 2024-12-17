@@ -7,3 +7,7 @@
 **[ENHANCE YOUR IMAGES WITH AI UPSCALING](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/writing/upscaling-guide)**
 
 ## Multimedia Work
+
+**[ENHANCE YOUR IMAGES WITH AI UPSCALING (PPT Version)](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/multimedia/upscaling-presentation)**
+
+
