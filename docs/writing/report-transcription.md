@@ -6,9 +6,9 @@ This report compares how three AI-based transcription models, Premiere Speech-To
 
 For this report, each model transcribed a clean audio file and a problem audio file, both three minutes in length:
 
-- **CLEAN AUDIO FILE:** [Barack Obama's 2004 Speech](https://www.youtube.com/watch?v=ueMNqdB1QIE) at the Democratic National Convention. The file contains clear audio with little background noise. Senator Obama (he was not yet President) speaks with clear rhythm and diction.
+- **CLEAN AUDIO FILE:** **[Barack Obama's 2004 Speech](https://www.youtube.com/watch?v=ueMNqdB1QIE)** at the Democratic National Convention. The file contains clear audio with little background noise. Senator Obama (he was not yet President) speaks with clear rhythm and diction.
   
-- **PROBLEM AUDIO FILE:** [Theodore Roosevelt's 1912 Speech](https://www.youtube.com/watch?v=uhlzdjPGxrs) at Carnegie Hall. President Roosevelt’s Mid-Atlantic accent differs starkly from modern American English. Artifacts and background noise further obscure the President’s voice, making the speech difficult to understand.
+- **PROBLEM AUDIO FILE:** **[Theodore Roosevelt's 1912 Speech](https://www.youtube.com/watch?v=uhlzdjPGxrs)** at Carnegie Hall. President Roosevelt’s Mid-Atlantic accent differs starkly from modern American English. Artifacts and background noise further obscure the President’s voice, making the speech difficult to understand.
 
 The report assesses model performances by comparing the number of mistakes in each model’s transcripts. In this case, **mistakes** include misspelled words, missing or extra words, and grammatical errors.
 
@@ -16,7 +16,7 @@ The report’s conclusion offers insights on using each model.
 
 ## Premiere Speech-To-Text
 
-Native to Adobe Premiere 15.4 and later, [Premiere Speech-To-Text](https://www.adobe.com/products/premiere/speech-to-text.html) **(PSTT)** allows users to transcribe media directly within the program. According to Adobe, the model transcribes English-language audio with high accuracy.
+Native to Adobe Premiere 15.4 and later, **[Premiere Speech-To-Text](https://www.adobe.com/products/premiere/speech-to-text.html)** **(PSTT)** allows users to transcribe media directly within the program. According to Adobe, the model transcribes English-language audio with high accuracy.
 
 ### Premiere Speech-To-Text Results
 
@@ -36,7 +36,7 @@ PSTT’s Roosevelt transcript lacks any coherence, highlighting the model’s ap
 
 ## Trint
 
-Popular with video professionals, [Trint](https://trint.com/) offers paid transcription services for various media formats. The company claims its transcription model performs with up to 99% accuracy.
+Popular with video professionals, **[Trint](https://trint.com/)** offers paid transcription services for various media formats. The company claims its transcription model performs with up to 99% accuracy.
 
 ### Trint Results
 
@@ -46,7 +46,7 @@ In contrast, Trint’s Roosevelt transcript contains **over 100 mistakes**. Whil
 
 ## Whisper by OpenAI
 
-In 2022, OpenAI released [Whisper](https://openai.com/index/whisper/), an open-source speech recognition model. OpenAI claims that Whisper “approaches human level robustness and accuracy on English speech recognition.”
+In 2022, OpenAI released **[Whisper](https://openai.com/index/whisper/)**, an open-source speech recognition model. OpenAI claims that Whisper “approaches human level robustness and accuracy on English speech recognition.”
 
 ### Whipser Results 
 
@@ -68,17 +68,17 @@ Though further testing can reveal more about the models, this report offers some
 
 Click the links below to view each model's full transcripts: 
 
-[Obama Speech - PSTT Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Obama-Speech-PSTT-Transcript)
+**[Obama Speech - PSTT Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Obama-Speech-PSTT-Transcript)**
 
-[Obama Speech - Trint Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Obama-Speech-Trint-Transcript)
+**[Obama Speech - Trint Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Obama-Speech-Trint-Transcript)**
 
-[Obama Speech - Whisper Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Obama-Speech-Whisper-Transcript)
+**[Obama Speech - Whisper Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Obama-Speech-Whisper-Transcript)**
 
-[Roosevelt Speech - PSTT Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Roosevelt-Speech-PSTT-Transcript)
+**[Roosevelt Speech - PSTT Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Roosevelt-Speech-PSTT-Transcript)**
 
-[Roosevelt Speech - Trint Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Roosevelt-Speech-Trint-Transcript)
+**[Roosevelt Speech - Trint Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Roosevelt-Speech-Trint-Transcript)**
 
-[Roosevelt Speech - Whisper Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Roosevelt-Speech-Whisper-Transcript)
+**[Roosevelt Speech - Whisper Transcript](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/report-transcripts/Roosevelt-Speech-Whisper-Transcript)**
 
 
 
