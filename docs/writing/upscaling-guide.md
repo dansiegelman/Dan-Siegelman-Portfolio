@@ -51,4 +51,28 @@ See Fig. 7 below.
 
 ![Farmer Compare Resemblance](upscale-photos/Farmer%20Comare%20Noresemble.jpg)
 
+**Artifice:** Check for details that appear fake or stray into the uncanny valley. Backgrounds and skin textures are especially prone to this issue. See Fig. 8 below. 
+
+![LBJ Compare](upscale-photos/ARTIFICE%20-%20LBJ%20Compare.png)
+
+**Facial Distortions:** Zoom in on each face to check for distortions, especially around the eyes and mouth. Upscaling models can distort whole faces as well as specific features. See Fig. 9 below. 
+
+![Couple Compare](upscale-photos/CoupleCompare.png)
+
+**Artifacts:** Check your upscaled image for objects, textures, and glitches that do not appear in your original image. Upscaling models may introduce artifacts to your image when filling in details. See Fig. 10 below.
+
+![JFK Compare](upscale-photos/ARTIFACTS%20-%20JFK%20Compare.png)
+
+## Troubleshooting and Tips
+
+If your upscaled image displays any of the flaws mentioned above, adjust your model’s settings and re-upscale your original image. This process may involve some trial and error. Model settings may include scale factor, sharpness, and noise reduction. 
+
+If your model fails repeatedly, upscale with a different model and adjust settings as needed. Different upscaling models can produce vastly different results. If the second model fails, your image may not be suitable for upscaling. 
+
+As you refine your upscaling process, look out for new models as well as updates to existing ones. New upscaling models are constantly hitting the market, so keep your options open and find the models that work best for you.
+
+
+
+
+
 
