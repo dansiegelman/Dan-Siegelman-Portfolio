@@ -69,29 +69,29 @@ While upscaling models can enhance your images, they can also make mistakes. Car
 See Fig. 7 below.
 
 <figure style="text-align: center;">
-    <img src="upscale-photos/Farmer%20Comare%20Noresemble.jpg" alt="Fig. 7: Farmer Upscale — Lack of Resemblance" width="600" style="display: block; margin: 0 auto;">
-    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 7: Farmer Upscale — Lack of Resemblance</figcaption>
+    <img src="upscale-photos/Farmer%20Comare%20Noresemble.jpg" alt="Fig. 7: Farmer Upscale – Lack of Resemblance" width="700" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 7: Farmer Upscale – Lack of Resemblance</figcaption>
 </figure>
 
 **Artifice:** Check for details that appear fake or stray into the uncanny valley. Backgrounds and skin textures are especially prone to this issue. See Fig. 8 below. 
 
 <figure style="text-align: center;">
-    <img src="upscale-photos/ARTIFICE%20-%20LBJ%20Compare.png" alt="Fig. 8: LBJ Upscale — Artifice" width="600" style="display: block; margin: 0 auto;">
-    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 8: LBJ Upscale — Artifice</figcaption>
+    <img src="upscale-photos/ARTIFICE%20-%20LBJ%20Compare.png" alt="Fig. 8: LBJ Upscale – Artifice" width="700" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 8: LBJ Upscale – Artifice</figcaption>
 </figure>
 
 **Facial Distortions:** Zoom in on each face to check for distortions, especially around the eyes and mouth. Upscaling models can distort whole faces as well as specific features. See Fig. 9 below. 
 
 <figure style="text-align: center;">
-    <img src="upscale-photos/CoupleCompare.png" alt="Fig. 9: Couple Upscale — Facial Distortions" width="600" style="display: block; margin: 0 auto;">
-    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 9: Couple Upscale — Facial Distortions</figcaption>
+    <img src="upscale-photos/CoupleCompare.png" alt="Fig. 9: Couple Upscale – Facial Distortions" width="700" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 9: Couple Upscale – Facial Distortions</figcaption>
 </figure>
 
 **Artifacts:** Check your upscaled image for objects, textures, and glitches that do not appear in your original image. Upscaling models may introduce artifacts to your image when filling in details. See Fig. 10 below.
 
 <figure style="text-align: center;">
-    <img src="upscale-photos/ARTIFACTS%20-%20JFK%20Compare.png" alt="Fig. 10: JFK Upscale — Artifacts" width="600" style="display: block; margin: 0 auto;">
-    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 10: JFK Upscale — Artifacts</figcaption>
+    <img src="upscale-photos/ARTIFACTS%20-%20JFK%20Compare.png" alt="Fig. 10: JFK Upscale – Artifacts" width="700" style="display: block; margin: 0 auto;">
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 10: JFK Upscale – Artifacts</figcaption>
 </figure>
 
 ## Troubleshooting and Tips
