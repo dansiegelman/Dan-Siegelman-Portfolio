@@ -12,4 +12,6 @@
 
 **[TUTORIAL: FIREFOX VIDEO DOWNLOADHELPER](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/multimedia/firefox-tutorial)**
 
+**[PREMIERE KEYBOARD FOR AVID EDITORS](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/multimedia/premiere-keyboard)**
+
 ## About Me
