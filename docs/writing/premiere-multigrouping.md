@@ -50,11 +50,6 @@ Premiere may have done this automatically.
 
 11. Use defaults for all other settings. See Fig. 4 below for full multi-camera settings. Double-check that your settings match those in Fig. 4.
 
-   <figure style="text-align: center; margin-left: -20px;">
-    <img src="userguide-photos/Fig%204.png" alt="Fig. 4: Full Multi-Camera Source Settings width="700" style="display: block; margin: 0 auto;">
-    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 4: Full Multi-Camera Source Settings</figcaption>
-   </figure>
-
 12. Click **OK** at the bottom of the pop-up box to create your A-Camera sequence.
 
 13. Navigate back to your work bin and right click the A-Camera sequence.
