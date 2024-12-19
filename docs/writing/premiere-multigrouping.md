@@ -102,11 +102,11 @@ Follow the steps below to combine your single-camera sequences into a multi-came
 9. Repeat Steps 1–8 for any additional cameras, if applicable.
 
 10. Zoom in fully on your master sequence by clicking and dragging the zoom slider below the timeline. See Fig. 7 below.
-    
-   <figure style="text-align: center; margin-left: -20px;">
-    <img src="userguide-photos/Fig%207.png" alt="Fig. 7: Timeline Zoom Slider" width="700" style="display: block; margin: 0 auto;">
-    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 7: Timeline Zoom Slider</figcaption>
-   </figure>
+
+    <figure style="text-align: center; margin-left: -20px;">
+ <img src="userguide-photos/Fig%207.png" alt="Fig. 7: Timeline Zoom Slider" width="700" style="display: block; margin: 0 auto;">
+ <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 7: Timeline Zoom Slider</figcaption>
+</figure>
 
 12. Carefully scrub through your master sequence and delete all camera audio, leaving only external field audio. Camera audio may appear in single-frame gaps between two field audio clips. See Fig. 8 below for an example.
 
