@@ -6,6 +6,8 @@
 
 **[ENHANCE YOUR IMAGES WITH AI UPSCALING](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/writing/upscaling-guide)**
 
+**[USER GUIDE: CROPPING MULTIGROUPS IN AVID](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/writing/avid-mgcropping)**
+
 ## Multimedia Work
 
 **[ENHANCE YOUR IMAGES WITH AI UPSCALING (PPT Version)](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/multimedia/upscaling-presentation)**
