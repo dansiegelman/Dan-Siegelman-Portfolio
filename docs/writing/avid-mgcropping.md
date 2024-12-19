@@ -28,6 +28,6 @@ Follow the steps below to crop your master clips before multigrouping.
 
 5. Set the Image Aspect Ratio to **16:9**. Set the Pixel Aspect Ratio to **1:1 (Square Pixels)**.
    
-   See the <span style="color: #008000;">GREEN POINTER</span> in Fig. 1 for these settings. 
+   See the **<span style="color: #008000;">GREEN POINTER</span>** in Fig. 1 for these settings. 
 
 6. 
