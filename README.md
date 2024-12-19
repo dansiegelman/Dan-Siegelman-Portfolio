@@ -24,4 +24,20 @@ Please click each link to view the corresponding project. Thank you for visiting
 
 ## About Me
 
+**[GitHub Profile](https://github.com/dansiegelman) • [LinkedIn](https://www.linkedin.com/in/dan-siegelman/)**
+
+As a certified technical writer, I translate complex processes into easy guides for users of all experience levels.
+
+I write product reports, instructions, style guides, and any document you need to bring your projects to life. I use multimedia tools to engage readers with screenshots, graphics, and video tutorials. If you can envision it, I can write it and design it.
+
+My career began in the television industry. As a Lead Assistant Editor, I managed project structures, designed editing workflows, and facilitated troubleshooting. My success in these roles hinged on my ability to transfer technical knowledge to a broad range of stakeholders.
+
+As I began documenting my workflows, I discovered my passion for technical writing and decided to pursue it full-time. I create engaging content centered on video software and AI platforms. Currently, I work as an AI Content Writer, evaluating chatbot responses and writing quality reports to enhance large language model training.
+
+On every project, I strive to be an active participant in the creation process, not simply someone who writes everything down. I thrive in collaborative environments with a common goal of understanding our rapidly evolving technology landscape. As video and AI platforms continue to develop, I am committed to documenting innovations and guiding teams to outstanding results.
+
+<img src="StyleGuide.gif" alt="Placeholder Image" width="600">
+
+
+
 
