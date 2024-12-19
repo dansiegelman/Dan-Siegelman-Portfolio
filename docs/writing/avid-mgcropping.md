@@ -29,4 +29,19 @@ Follow the steps below to crop your master clips before multigrouping.
    
    See the **<span style="color: #008000;">GREEN POINTER</span>** in Fig. 1 for these settings. 
 
-6. 
+6. Set your desired Frame Aspect Ratio in the **Frame Aspect Ratio** dropdown menu.
+
+   See the **<span style="color: #008000;">ORANGE POINTER</span>** in Fig. 1 for this setting.
+
+7. Select **Pillarbox/Letterbox** in the **Reformat** dropdown menu.
+
+   See the **<span style="color: #008000;">BLUE POINTER</span>** in Fig. 1 for this setting.
+
+8. Click **Apply to All** at the bottom of the Source Settings pop-up box. This action conforms all A-Camera clips to the new aspect ratio.
+   
+10. Navigate to the X and Y position sliders in the FrameFlex box. You can find the sliders next to the **<span style="color: #008000;">ORANGE POINTER</span>** in Fig. 1.
+
+11. Use the X and Y sliders to adjust the shot's framing.
+    > [!NOTE]
+    > Here's the template for markdown notes
+   
