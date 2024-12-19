@@ -9,6 +9,7 @@ Please click each link to view the corresponding project. Thank you for visiting
 **[REPORT: AI TRANSCRIPTION FOR PROBLEM AUDIO](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/writing/report-transcription)**
 
 **[ENHANCE YOUR IMAGES WITH AI UPSCALING](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/writing/upscaling-guide)**
+- This guide outlines the AI upscaling process for users of all experience levels. Use this guide to master upscaling and create beautiful, high-resolution images.
 
 **[USER GUIDE: MULTIGROUPING IN ADOBE PREMIERE](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/writing/premiere-multigrouping)**
 
@@ -24,7 +25,7 @@ Please click each link to view the corresponding project. Thank you for visiting
 
 ## About Me
 
-**[GitHub Profile](https://github.com/dansiegelman) • [LinkedIn](https://www.linkedin.com/in/dan-siegelman/)**
+**[GitHub Profile](https://github.com/dansiegelman) ◊ [LinkedIn](https://www.linkedin.com/in/dan-siegelman/)**
 
 As a certified technical writer, I translate complex processes into easy guides for users of all experience levels.
 
