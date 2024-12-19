@@ -7,6 +7,7 @@ Please click each link to view the corresponding project. Thank you for visiting
 ## Technical Writing Work
 
 **[REPORT: AI TRANSCRIPTION FOR PROBLEM AUDIO](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/writing/report-transcription)**
+This report compares the performance of three AI-based transcription models—Premiere Speech-To-Text, Trint, and Whisper—with clean audio and problem audio.
 
 **[ENHANCE YOUR IMAGES WITH AI UPSCALING](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/writing/upscaling-guide)**
 - This guide outlines the AI upscaling process for users of all experience levels. Use this guide to master upscaling and create beautiful, high-resolution images.
