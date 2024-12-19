@@ -20,7 +20,7 @@ Follow the steps below to crop your master clips before multigrouping.
    
 7. Click the **FrameFlex** tab in the Source Settings pop-up box.
 
-   <figure style="text-align: center;">
+   <figure style="text-align: center; margin-left: -20px;">
     <img src="userguide-photos/cropping-fig1.png" alt="Fig. 1: Avid FrameFlex Settings" width="700" style="display: block; margin: 0 auto;">
     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 1: Avid FrameFlex Settings</figcaption>
    </figure>
