@@ -55,17 +55,16 @@ Premiere may have done this automatically.
     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 4: Full Multi-Camera Source Setings</figcaption>
    </figure>
 
+12. Click **OK** at the bottom of the pop-up box to create your A-Camera sequence.
 
-13. Click **OK** at the bottom of the pop-up box to create your A-Camera sequence.
-
-14. Navigate back to your work bin and right click the A-Camera sequence.
+13. Navigate back to your work bin and right click the A-Camera sequence.
 Select **Open in Timeline** in the dropdown menu.
 
-15. Scrub through the A-Camera sequence and fix any out-of-sync clips.
+14. Scrub through the A-Camera sequence and fix any out-of-sync clips.
 
-16. Relabel the A-Camera sequence as your master scene sequence. Save this sequence. You will add the remaining camera clips to this sequence in the next section.
+15. Relabel the A-Camera sequence as your master scene sequence. Save this sequence. You will add the remaining camera clips to this sequence in the next section.
 
-17. Repeat Steps 5–14 with your B-Camera clips, and with any additional camera clips if applicable.
+16. Repeat Steps 5–14 with your B-Camera clips, and with any additional camera clips if applicable.
 
 ## Create Multi-Camera Sequence
 
