@@ -78,7 +78,7 @@ clip type to access all the subclips at once.
 
 6. Select **Pillarbox/Letterbox** in the Reformat dropdown menu.
 
-   See the **<span style="color: #1894ec;">BLUE POINTER</span>** in [Fig. 1](#Crop-Your-Master-Clips) for this setting.
+   See the **<span style="color: #1894ec;">BLUE POINTER</span>** in [Fig. 1](#crop-your-master-clips) for this setting.
 
 8. Click **Apply to All** at the bottom of the Source Settings pop-up box. This step conforms
 the subclips to the correct dimensions and aspect ratio.
