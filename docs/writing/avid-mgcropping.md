@@ -20,10 +20,10 @@ Follow the steps below to crop your master clips before multigrouping.
    
 7. Click the **FrameFlex** tab in the Source Settings pop-up box.
 
-<figure style="text-align: center;">
+   <figure style="text-align: center;">
     <img src="userguide-photos/cropping-fig1.png" alt="Fig. 1: Avid FrameFlex Settings" width="700" style="display: block; margin: 0 auto;">
     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 1: Avid FrameFlex Settings</figcaption>
-</figure>
+   </figure>
 
 5. Set the Image Aspect Ratio to **16:9**. Set the Pixel Aspect Ratio to **1:1 (Square Pixels)**.
    
