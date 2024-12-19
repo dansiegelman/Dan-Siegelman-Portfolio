@@ -102,12 +102,17 @@ Follow the steps below to combine your single-camera sequences into a multi-came
 
 10. Zoom in fully on your master sequence by clicking and dragging the zoom slider below the timeline. See Fig. 7 below.
 
-   <figure style="text-align: center; margin-left: -20px;">
-    <img src="userguide-photos/Fig%207.png" alt="Fig. 6: Add Tracks Settings" width="700" style="display: block; margin: 0 auto;">
-    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 6: Add Tracks Settings</figcaption>
-   </figure>
+    <figure style="text-align: center; margin-left: -20px;">
+     <img src="userguide-photos/Fig%207.png" alt="Fig. 7: Timeline Zoom Slider" width="700" style="display: block; margin: 0 auto;">
+     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 7: Timeline Zoom Slider</figcaption>
+    </figure> 
 
 11. Carefully scrub through your master sequence and delete all camera audio, leaving only external field audio. Camera audio may appear in single-frame gaps between two field audio clips. See Fig. 8 below for an example.
+
+    <figure style="text-align: center; margin-left: -20px;">
+     <img src="userguide-photos/Fig%208.png" alt="Fig. 8: Camera Audio Between Field Audio Clips" width="700" style="display: block; margin: 0 auto;">
+     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 8: Camera Audio Between Field Audio Clips</figcaption>
+    </figure> 
 
     > NOTE: You must complete Step 11 to ensure that all audio waveforms appear in your project. Any camera audio present in your sequence prevents its waveforms from displaying.
 
