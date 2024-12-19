@@ -85,9 +85,7 @@ Follow the steps below to combine your single-camera sequences into a multi-came
 4. Open your master sequence in the timeline. (This is the A-Camera master sequence you saved in Step 15 of the Previous Section.)
 
 5. Right click below the master sequence timecode and select **Add Tracks...**
-
    In the Add Tracks pop-up box, add a new video track (V2) to the master sequence.
-
    Click **OK** to save and exit. See Fig. 6 below for these settings.
 
    <figure style="text-align: center; margin-left: -20px;">
@@ -95,22 +93,22 @@ Follow the steps below to combine your single-camera sequences into a multi-came
     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 6: Add Tracks Settings</figcaption>
    </figure>
 
-7. Move the master sequence playhead to the timecode you wrote down in Step 2.
+6. Move the master sequence playhead to the timecode you wrote down in Step 2.
 
-8. Select video track V2 on the left of the timeline, then paste the B-Camera clips to V2.
+7. Select video track V2 on the left of the timeline, then paste the B-Camera clips to V2.
 
-9. Sync the B-Camera clips to the A-Camera and audio. You may only need to move a few clips, depending on the jam sync.
+8. Sync the B-Camera clips to the A-Camera and audio. You may only need to move a few clips, depending on the jam sync.
 
-10. Repeat Steps 1–8 for any additional cameras, if applicable.
+9. Repeat Steps 1–8 for any additional cameras, if applicable.
 
-11. Zoom in fully on your master sequence by clicking and dragging the zoom slider below the timeline. See Fig. 7 below.
-
-   <figure style="text-align: center; margin-left: -20px;">
+10. Zoom in fully on your master sequence by clicking and dragging the zoom slider below the timeline. See Fig. 7 below.
+    
+       <figure style="text-align: center; margin-left: -20px;">
     <img src="userguide-photos/Fig%207.png" alt="Fig. 7: Timeline Zoom Slider" width="700" style="display: block; margin: 0 auto;">
-    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Timeline Zoom Slider</figcaption>
+    <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 7: Timeline Zoom Slider</figcaption>
    </figure>
 
-11. Carefully scrub through your master sequence and delete all camera audio, leaving only external field audio. Camera audio may appear in single-frame gaps between two field audio clips. See Fig. 8 below for an example.
+12. Carefully scrub through your master sequence and delete all camera audio, leaving only external field audio. Camera audio may appear in single-frame gaps between two field audio clips. See Fig. 8 below for an example.
 
    
 
