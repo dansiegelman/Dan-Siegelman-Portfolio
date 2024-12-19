@@ -60,7 +60,7 @@ if applicable.
 16. Run your multigrouping process on the footage.
     > **NOTE**: I strongly recommend Group It For Me for Avid multigrouping.
     > 
-    > Visit [Group It For Me's Website](https://groupitforme.com/) for more information.
+    > Visit **[Group It For Me's Website](https://groupitforme.com/)** for more information.
 
 ## Format Your Multigroups
 
@@ -79,7 +79,7 @@ clip type to access all the subclips at once.
 
 6. Select **Pillarbox/Letterbox** in the Reformat dropdown menu.
 
-   See the **<span style="color: #1894ec;">BLUE POINTER</span>** in [Fig. 1](#crop-your-master-clips) for this setting.
+   See the **<span style="color: #1894ec;">BLUE POINTER</span>** in **[Fig. 1](#crop-your-master-clips)** for this setting.
 
 8. Click **Apply to All** at the bottom of the Source Settings pop-up box. This step conforms
 the subclips to the correct dimensions and aspect ratio.
