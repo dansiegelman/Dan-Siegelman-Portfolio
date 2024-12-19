@@ -50,7 +50,7 @@ Premiere may have done this automatically.
 
 11. Use defaults for all other settings. See Fig. 4 below for full multi-camera settings. Double-check that your settings match those in Fig. 4.
 
-    <figure style="text-align: center; margin-left: -20px;">
+   <figure style="text-align: center; margin-left: -20px;">
     <img src="userguide-photos/Fig%204.png" alt="Fig. 4: Full Multi-Camera Source Setings" width="700" style="display: block; margin: 0 auto;">
     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 4: Full Multi-Camera Source Setings</figcaption>
    </figure>
@@ -103,7 +103,7 @@ Follow the steps below to combine your single-camera sequences into a multi-came
 
 10. Zoom in fully on your master sequence by clicking and dragging the zoom slider below the timeline. See Fig. 7 below.
     
-       <figure style="text-align: center; margin-left: -20px;">
+   <figure style="text-align: center; margin-left: -20px;">
     <img src="userguide-photos/Fig%207.png" alt="Fig. 7: Timeline Zoom Slider" width="700" style="display: block; margin: 0 auto;">
     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 7: Timeline Zoom Slider</figcaption>
    </figure>
