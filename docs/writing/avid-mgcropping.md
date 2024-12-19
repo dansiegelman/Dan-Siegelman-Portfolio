@@ -25,5 +25,9 @@ Follow the steps below to crop your master clips before multigrouping.
     <figcaption style="font-size: small; font-style: italic; color: darkblue; margin-top: 5px;">Fig. 1: Avid FrameFlex Settings</figcaption>
 </figure>
 
+
 5. Set the Image Aspect Ratio to **16:9**. Set the Pixel Aspect Ratio to **1:1 (Square Pixels)**.
    
+   See the <span style="color: #008000;">GREEN POINTER</span> in Fig. 1 for these settings. 
+
+6. 
