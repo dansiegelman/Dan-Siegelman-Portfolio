@@ -1,8 +1,8 @@
 # Dan Siegelman's GitHub Portfolio
 
-Please scroll down to view my technical writing and multimedia work.
+Welcome to my Technical Writing and Multimedia Portfolio - GitHub edition!
 
-Each section includes a button to open the document and a description of my role. Thank you for visiting!
+Please click each link to view the corresponding project. Thank you for visiting!
 
 ## Technical Writing Work
 
