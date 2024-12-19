@@ -42,21 +42,22 @@ Follow the steps below to crop your master clips before multigrouping.
 9. Navigate to the X and Y position sliders in the FrameFlex box. You can find the sliders next to the **<span style="color: #c08c04;">ORANGE POINTER</span>** in Fig. 1.
 
 10. Use the X and Y sliders to adjust the shot's framing.
+    
     > **NOTE**: You **MUST** adjust the framing of every single clip to ensure correct display in
 the final multigroup. This step prevents the Avid bug described in the introduction.
     >
     > Some shots may not need visible reframing. In these cases, enter **“0.01”** in a number box to the right of the X or Y slider. This step adjusts framing by a single pixel while avoiding any visible reframing.
 
-11. Click **Apply** at the bottom of the Source Settings box. The next A-Camera clip appears in the box.
+12. Click **Apply** at the bottom of the Source Settings box. The next A-Camera clip appears in the box.
 
-12. Use the X and Y sliders to adjust the shot’s framing, then click Apply. Repeat this process with all remaining A-Camera clips.
+13. Use the X and Y sliders to adjust the shot’s framing, then click Apply. Repeat this process with all remaining A-Camera clips.
 
-13. Click **OK** to exit the pop-up box after adjusting the final A-Camera clip.
+14. Click **OK** to exit the pop-up box after adjusting the final A-Camera clip.
 
-14. Repeat Steps 2–13 with the B-Camera master clips and any additional camera clips,
+15. Repeat Steps 2–13 with the B-Camera master clips and any additional camera clips,
 if applicable.
 
-15. Run your multigrouping process on the footage.
+16. Run your multigrouping process on the footage.
     > **NOTE**: I strongly recommend Group It For Me for Avid multigrouping.
     > 
     > Visit [Group It For Me's Website](https://groupitforme.com/) for more information.
