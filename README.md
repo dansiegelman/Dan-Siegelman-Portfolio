@@ -6,12 +6,12 @@ Please click each link to view the corresponding project. Thank you for visiting
 
 ## Technical Writing Work
 
-**[REPORT: AI TRANSCRIPTION FOR PROBLEM AUDIO](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/writing/report-transcription)**
+<img src="icons/speaker.png" alt="Icon" width="20">&nbsp;&nbsp;&nbsp;&nbsp;**[REPORT: AI TRANSCRIPTION FOR PROBLEM AUDIO](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/writing/report-transcription)**
 - In my video work, I often spot mistakes in AI-generated transcripts. I researched solutions and discovered [Whisper](https://github.com/openai/whisper), an open-source speech recognition model by OpenAI.
   
   Wanting to learn more, I conducted a small study comparing Whisper—a free service—to paid transcription models. I documented the findings in a report, sharing insights for end-users and some surprising results.
 
-**[ENHANCE YOUR IMAGES WITH AI UPSCALING](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/writing/upscaling-guide)**
+<img src="icons/picture.png" alt="Icon" width="20">&nbsp;&nbsp;&nbsp;&nbsp;**[ENHANCE YOUR IMAGES WITH AI UPSCALING](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/writing/upscaling-guide)**
 - As Lead Assistant Editor on [True Crime Story: Look Into My Eyes](https://www.youtube.com/watch?v=mQDIgwOzSxA), I upscaled dozens of low-resolution images for our program. Some images produced great results instantly, while others needed adjustments to ensure the upscaled versions mirrored the originals.
 
   This inspired me to write an AI upscaling guide for users of all experience levels. The guide walks users through selecting low-res images and reviewing upscaled results. I upscaled a variety of images exclusively for this project.
