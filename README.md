@@ -27,14 +27,16 @@ This report compares the performance of three AI-based transcription models—Pr
 ## About Me
 
 <a href="https://www.linkedin.com/in/dan-siegelman">
-    <img src="icons/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30" style="margin-right:50px">
-</a>
+    <img src="icons/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"> 
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/dansiegelman">
     <img src="icons/github-icon-2.svg" alt="GitHub" width="30" height="30">
-</a>
+</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/flockofsiegelman/">
     <img src="icons/Instagram_icon.png" alt="Instagram" width="30" height="30">
-</a>
+</a>  
+<br>
+<br>
 
 As a certified technical writer, I translate complex processes into easy guides for users of all experience levels.
 
