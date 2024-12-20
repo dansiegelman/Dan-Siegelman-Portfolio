@@ -27,7 +27,7 @@ This report compares the performance of three AI-based transcription models—Pr
 ## About Me
 
 <a href="https://www.linkedin.com/in/dan-siegelman">
-    <img src="icons/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30">
+    <img src="icons/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30" style="margin-right:50px">
 </a>
 <a href="https://github.com/dansiegelman">
     <img src="icons/github-icon-2.svg" alt="GitHub" width="30" height="30">
