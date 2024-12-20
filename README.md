@@ -30,9 +30,21 @@ Please click each link to view the corresponding project. Thank you for visiting
 
 **[ENHANCE YOUR IMAGES WITH AI UPSCALING (PPT Version)](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/multimedia/upscaling-presentation)**
 
+- After completing my AI Upscaling Guide, I decided to take my work to the next level by creating a presentation on the same topic.
+
+  The presentation offers detailed commentary on upscaled images and specialized troubleshooting advice.
+
 **[TUTORIAL: FIREFOX VIDEO DOWNLOADHELPER](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/multimedia/firefox-tutorial)**
 
+- In my post-production work, I used FireFox Video Downloadhelper to extract all kinds of videos for archival use.
+
+  I created a video tutorial on getting started with Downloadhelper to help users make the most of this powerful tool.
+
 **[PREMIERE KEYBOARD FOR AVID EDITORS](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/multimedia/premiere-keyboard)**
+
+- At Anchor NY, I guided video editors in transitioning from Avid to Premiere. To streamline workflow adoption, I designed a custom Premiere keyboard with Avid shortcuts.
+
+  I developed a visual guide to the keyboard that catalogs shortcuts and provides quick setup instructions.  
 
 ## About Me
 
