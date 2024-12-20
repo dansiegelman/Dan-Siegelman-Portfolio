@@ -28,6 +28,16 @@ This report compares the performance of three AI-based transcription models—Pr
 
 **[GitHub Profile](https://github.com/dansiegelman) ◊ [LinkedIn](https://www.linkedin.com/in/dan-siegelman/)**
 
+<a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://example.com/linkedin-icon.png" alt="LinkedIn" width="30" height="30">
+</a>
+<a href="https://twitter.com/yourprofile">
+    <img src="https://example.com/twitter-icon.png" alt="Twitter" width="30" height="30">
+</a>
+<a href="https://github.com/yourusername">
+    <img src="https://example.com/github-icon.png" alt="GitHub" width="30" height="30">
+</a>
+
 As a certified technical writer, I translate complex processes into easy guides for users of all experience levels.
 
 I write product reports, instructions, style guides, and any document you need to bring your projects to life. I use multimedia tools to engage readers with screenshots, graphics, and video tutorials. If you can envision it, I can write it and design it.
