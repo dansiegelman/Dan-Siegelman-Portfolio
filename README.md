@@ -26,9 +26,9 @@ Please click each link to view the corresponding project. Thank you for visiting
   I wrote a user guide for organizing the footage and preventing the audio bug. The resulting workflow streamlined editing and supported timely deliveries.
 
 <img src="icons/crop.png" alt="Icon" width="20">&nbsp;&nbsp;&nbsp;**[USER GUIDE: CROPPING MULTIGROUPS IN AVID](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/writing/avid-mgcropping)**
-- On [The Toys That Built America S3](https://www.youtube.com/watch?v=xJmQDRVJHQ0), our post team received a last-minute request to crop all interview footage to widescreen. As a solution, I built a customized Avid workflow that enables widescreen cropping without causing project delays.
+- On [The Toys That Built America S3](https://www.youtube.com/watch?v=xJmQDRVJHQ0), our post team received a last-minute request to crop over 100 hours of interview footage to widescreen. As a solution, I built a customized Avid workflow that enables widescreen cropping without causing project delays.
 
-  I wrote a user guide to document the workflow for our post team, ensuring project stability and consistency across interview footage.
+  I wrote a user guide to document the workflow for our post team, ensuring stability across 12 Avid projects and 50+ interviews.
 
 ## Multimedia Work
 
@@ -42,7 +42,7 @@ Please click each link to view the corresponding project. Thank you for visiting
 
 - In my post-production work, I used FireFox Video Downloadhelper to extract all kinds of videos for archival use.
 
-  I created a video tutorial on getting started with Downloadhelper to help users make the most of this powerful tool.
+  I created a video tutorial on getting started with Downloadhelper to guide users through making the most of this powerful tool.
 
 <img src="icons/keyboard.png" alt="Icon" width="20">&nbsp;&nbsp;&nbsp;**[PREMIERE KEYBOARD FOR AVID EDITORS](https://dansiegelman.github.io/Dan-Siegelman-Portfolio/multimedia/premiere-keyboard)**
 
