@@ -70,7 +70,7 @@ I write product reports, instructions, style guides, and any document you need t
 
 My career began in the television industry. As a Lead Assistant Editor, I managed project structures, designed editing workflows, and facilitated troubleshooting. My success in these roles hinged on my ability to transfer technical knowledge to a broad range of stakeholders.
 
-As I began documenting my workflows, I discovered my passion for technical writing and decided to pursue it full-time. I now create documentation centered on video software and digital platforms. Currently, I work as an AI Content Writer, evaluating chatbot responses and writing quality reports to enhance large language model training.
+As I began documenting my workflows, I discovered my passion for technical writing and decided to pursue it full-time. I create documentation centered on video software and AI platforms. Currently, I work as an AI Content Writer, evaluating chatbot responses and writing quality reports to enhance large language model training.
 
 On every project, I strive to be an active participant in the creation process, not simply someone who writes everything down. I thrive in collaborative environments with a common goal of understanding our rapidly evolving technology landscape. As video and AI platforms continue to develop, I am committed to documenting innovations and guiding teams to outstanding results.
 
